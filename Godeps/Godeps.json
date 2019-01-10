@@ -1,0 +1,87 @@
+{
+	"ImportPath": "github.com/dariakts/golang-ci",
+	"GoVersion": "go1.11",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/golang/snappy",
+			"Rev": "2e65f85255dbc3072edf28d6b5b8efc472979f5a"
+		},
+		{
+			"ImportPath": "github.com/google/uuid",
+			"Comment": "v1.1.0",
+			"Rev": "9b3b1e0f5f99ae461456d768e7d301a7acdaa2d8"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Comment": "v1.1.2",
+			"Rev": "3536a929edddb9a5b34bd6861dc4a9647cb459fe"
+		},
+		{
+			"ImportPath": "github.com/opentracing/opentracing-go",
+			"Comment": "v1.0.2-21-g8b5a441",
+			"Rev": "8b5a441dc60e8d9bb9bf9d22060b6d94fa599983"
+		},
+		{
+			"ImportPath": "github.com/opentracing/opentracing-go/log",
+			"Comment": "v1.0.2-21-g8b5a441",
+			"Rev": "8b5a441dc60e8d9bb9bf9d22060b6d94fa599983"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http/httpguts",
+			"Rev": "891ebc4b82d6e74f468c533b06f983c7be918a96"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http2",
+			"Rev": "891ebc4b82d6e74f468c533b06f983c7be918a96"
+		},
+		{
+			"ImportPath": "golang.org/x/net/http2/hpack",
+			"Rev": "891ebc4b82d6e74f468c533b06f983c7be918a96"
+		},
+		{
+			"ImportPath": "golang.org/x/net/idna",
+			"Rev": "891ebc4b82d6e74f468c533b06f983c7be918a96"
+		},
+		{
+			"ImportPath": "golang.org/x/text/secure/bidirule",
+			"Comment": "v0.3.0-69-ge6919f6",
+			"Rev": "e6919f6577db79269a6443b9dc46d18f2238fb5d"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Comment": "v0.3.0-69-ge6919f6",
+			"Rev": "e6919f6577db79269a6443b9dc46d18f2238fb5d"
+		},
+		{
+			"ImportPath": "golang.org/x/text/unicode/bidi",
+			"Comment": "v0.3.0-69-ge6919f6",
+			"Rev": "e6919f6577db79269a6443b9dc46d18f2238fb5d"
+		},
+		{
+			"ImportPath": "golang.org/x/text/unicode/norm",
+			"Comment": "v0.3.0-69-ge6919f6",
+			"Rev": "e6919f6577db79269a6443b9dc46d18f2238fb5d"
+		},
+		{
+			"ImportPath": "gopkg.in/couchbase/gocb.v1",
+			"Comment": "v1.5.2",
+			"Rev": "6b2b62622f1879b04fcbcff8863eda2da50b55e6"
+		},
+		{
+			"ImportPath": "gopkg.in/couchbase/gocbcore.v7",
+			"Comment": "v7.1.10",
+			"Rev": "168eae0b31c401fbefc79e9a9d4354e19ec50ad7"
+		},
+		{
+			"ImportPath": "gopkg.in/couchbaselabs/gocbconnstr.v1",
+			"Comment": "v1.0.2",
+			"Rev": "896fab9ddffac355b8b5be5763ffcd15a78c475d"
+		},
+		{
+			"ImportPath": "gopkg.in/couchbaselabs/jsonx.v1",
+			"Comment": "v1.0.0",
+			"Rev": "5b7baa20429a46a5543ee259664cc86502738cad"
+		}
+	]
+}
